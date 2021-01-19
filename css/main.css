@@ -4,7 +4,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Roboto", sans-serif;
+  /* font-family: "Roboto", sans-serif; */
+  font-family: "Khula", Arial;
 }
 
 body {
@@ -28,7 +29,7 @@ header {
 
 #mainTitle {
   font-size: 40px;
-  font-weight: 900;
+  font-weight: 800;
   vertical-align: middle; /* Only for inline and inline-block */
 }
 
